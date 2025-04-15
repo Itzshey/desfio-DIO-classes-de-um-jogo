@@ -1,3 +1,6 @@
+  ## Desafio classes de um jogo do curso Formação Lógica de Programação da DIO!
+  Instruções:
+  
 **O Que deve ser utilizado**
 
 - Variáveis
