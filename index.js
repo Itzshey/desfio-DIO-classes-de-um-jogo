@@ -17,7 +17,7 @@ class heroi {
     }
 }
 
-const nome = ["Frederico", "Jefferson Caminhões", "Tonhão"]
+const nome = ["Frederico", "Jefferson", "Marco"]
 const idade = [13, 26, 45]
 const classe = ["mago","monge","guerreiro"]
 
